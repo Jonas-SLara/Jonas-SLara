@@ -1,22 +1,45 @@
 ## Hi there, I'm Jonas Silva 👋
 
-## Youtube: [Meu Canal](http://www.youtube.com/@Jonas_silva2005)
+🎥 **YouTube**: [Meu Canal](http://www.youtube.com/@Jonas_silva2005)
 
-## My Stack
+---
 
-## A little about me 
+## 🚀 My Stack
 
-. 🔭 2023 -  I am currently studying Internet Systems at the Federal University of Santa Maria
+<!-- Aqui você pode colocar os ícones ou uma lista como:
+- Java, JSP, Servlets
+- HTML, CSS, JavaScript
+- PostgreSQL, JDBC
+- Docker, Git, GitHub
+- etc.
+-->
 
-. 🔭 2025 One of my current works is the development of an educational game and an inventory system.
+*Still in progress...*
 
-. 🔭 2025 I am part of CompAct Jr, a junior company at UFSM
+---
 
-___________________________________________________________
-  I love learning new things, especially when it comes to technology. My goal is to help develop web systems or educational software that make people's lives easier and have a positive impact.
-  That's why I created this repository, to learn from my progress and work that I will keep here.
+## 👨‍💻 A little about me
 
-  Eu adoro aprender coisas novas, principalmente quando o assunto é tecnologia, meu objetivo é ajudar a desenvolver sistemas web ou softwares de caracter educacional que facilitem a vida das pessoas inpactando positivamente.
-  por isso crio este repositório, para aprender com meu progresso e trabalhos que aqui guardarei. 
-___________________________________________________________
+🔭 **2023** — I'm currently studying *Internet Systems* at the **Federal University of Santa Maria (UFSM)**.  
+🔭 **2025** — I'm working on an **educational game** and an **inventory management system**.  
+🔭 I'm also part of **CompAct Jr**, a junior enterprise at UFSM.
 
+I love learning new things, especially when it comes to technology.  
+My goal is to help develop **web systems** or **educational software** that make people's lives easier and create a **positive impact**.
+
+This repository is where I document my progress and the projects I'm working on.
+
+---
+
+## 🇧🇷 Um pouco sobre mim
+
+🔭 **2023** — Atualmente estudo *Sistemas para Internet* na **UFSM**.  
+🔭 **2025** — Estou trabalhando em um **jogo educacional** e em um **sistema de inventário**.  
+🔭 Também faço parte da **CompAct Jr**, empresa júnior da UFSM.
+
+Adoro aprender coisas novas, principalmente quando o assunto é tecnologia.  
+Meu objetivo é ajudar a desenvolver **sistemas web** ou **softwares educacionais** que facilitem a vida das pessoas e causem um **impacto positivo**.
+
+Criei este repositório para acompanhar meu progresso e guardar os projetos que estou desenvolvendo.
+
+---
