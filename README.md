@@ -1,6 +1,7 @@
 ## Hi there, I'm Jonas Silva 👋
 
 🎥 **YouTube**: [Meu Canal](http://www.youtube.com/@Jonas_silva2005)
+**Linkedin**: [Meu Linkedin](https://www.linkedin.com/in/jonas-silva-de-lara-08246b27b/)
 
 ---
 
